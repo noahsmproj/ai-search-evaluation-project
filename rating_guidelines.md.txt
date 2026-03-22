@@ -1,0 +1,15 @@
+# Search Result Evaluation Guidelines
+
+High Relevance
+• Directly answers the query
+• Trusted source
+• Accurate information
+
+Medium Relevance
+• Partially answers query
+• Some useful information
+
+Low Relevance
+• Misleading
+• Irrelevant content
+• Unreliable sources
